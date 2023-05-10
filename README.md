@@ -1,6 +1,5 @@
 
 # EasyCrops
-**USE QUICK DOWNLOAD BELOW TO DOWNLOAD THE TEXTUREPACK FOR YOUR MC VERSION**
 
 This resource pack is basic but incredibly useful when farming. With this, you are able to clearly tell which crops are fully grown and which ones are not.
 
@@ -20,3 +19,6 @@ Instantly download the latest EasyCrop version ZIP file by clicking on your Mine
 - [1.19 - 1.19.2](https://github.com/GraxeMC/EasyCrops/releases/download/V.0.1/EasyCrops.1.19.-.1.19.2.zip)
 
     
+## Status Page:
+
+Check out the status page here: https://graxemc1.statuspage.io/
