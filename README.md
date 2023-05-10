@@ -1,15 +1,22 @@
-EasyCrops Overview
 
-EasyCrops is a simple way of knowing if the crops are fully grown. Once the crop has fully grown, the top will turn black allowing you to tell the difference.
+# EasyCrops
+**USE QUICK DOWNLOAD BELOW TO DOWNLOAD THE TEXTUREPACK FOR YOUR MC VERSION**
 
-(This README.md looks terrible. Leave me alone <3)
+This resource pack is basic but incredibly useful when farming. With this, you are able to clearly tell which crops are fully grown and which ones are not.
 
-Yes, its very basic but it is very useful for lots of people growing things!
 
-Crops Supported:
-Wheat
-Potatoes
-Carrots
-Beetroots
+## Supported Crops
 
-Resource Pack updates may only include new crops (if added) and other items. (Not Often) but will always be kept up to date with minecraft versions above 1.17
+- Wheat
+- Potatoes
+- Carrots
+- Beetroot
+
+
+## Quick Download:
+Instantly download the latest EasyCrop version ZIP file by clicking on your Minecraft version below:
+- [1.19.4](https://github.com/GraxeMC/EasyCrops/releases/download/V.0.1/EasyCrops.1.19.4.zip)
+- [1.19.3](https://github.com/GraxeMC/EasyCrops/releases/download/V.0.1/EasyCrops.1.19.3.zip)
+- [1.19 - 1.19.2](https://github.com/GraxeMC/EasyCrops/releases/download/V.0.1/EasyCrops.1.19.-.1.19.2.zip)
+
+    
