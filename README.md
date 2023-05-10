@@ -1,6 +1,6 @@
 
 # EasyCrops
-
+**TO DOWNLOAD - SCROLL DOWN UNTIL YOU SEE THE "QUICK DOWNLOAD" SECTION**
 This resource pack is basic but incredibly useful when farming. With this, you are able to clearly tell which crops are fully grown and which ones are not.
 
 
